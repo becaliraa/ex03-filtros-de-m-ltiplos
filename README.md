@@ -46,5 +46,19 @@ javac src/*.java
 java -cp src Main
 ```
 
-🤝 Conecte-se comigo
-Mais um projeto do bootcamp concluído 💪
+## ✍️ Autora
+
+Desenvolvido com 💻 por **Rebeca de Oliveira Lira**
+
+<div align="left">
+  <a href="https://github.com/becaliraa" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/becalira/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://linktr.ee/devbeca" target="_blank">
+    <img alt="Linktree" src="https://img.shields.io/badge/Linktree-39e09b?style=for-the-badge&logo=linktree&logoColor=white"/>
+  </a>
+</div>
+
